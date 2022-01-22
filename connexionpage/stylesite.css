@@ -1,0 +1,14 @@
+.body{
+    background-color: white;
+}
+
+.first{
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    color: black;
+}
+.input{
+    background-color: white;
+    padding: 14px 20px;
+}
